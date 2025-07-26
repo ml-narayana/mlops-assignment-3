@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.ipynb_checkpoints
+*.joblib
+*.pth
+*.log
+*.tar
+*.img
+.vscode/
+.idea/
